@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.color-primary {
+	background-color: #16a3b5 !important;
+	color: white !important;
+}
+
+.section-container {
+	padding: 1rem;
+	border: 1px solid #d0d0d0;
+	border-radius: 0.3rem;
+}
+
+.completed-todo {
+	color: red;
+	text-decoration: line-through;
+}
